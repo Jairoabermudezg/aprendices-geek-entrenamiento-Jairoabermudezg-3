@@ -79,3 +79,12 @@ formulario.addEventListener('submit', (e) => {
      }
 
 })
+
+function eurosDolares(valNum) {
+     document.getElementById("Desde la divisa").value=valNum*1.156236;
+   }
+   function dolaresEuros(valNum) {
+     document.getElementById("A la divisa").value=valNum*0.864875337;
+   }
+
+   
