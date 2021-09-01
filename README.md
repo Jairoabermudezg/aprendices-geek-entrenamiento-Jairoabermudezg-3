@@ -2,7 +2,8 @@
 
 La aplicación de divisas requiere que su sistema sea actualizada, ya contamos con código HTML,CSS y JavaScript. Se requiere que la aplicación sea terminada y ajustada en su totalidad
 
-![image](https://user-images.githubusercontent.com/88691843/131439289-92320928-9fa5-47ff-9e40-907981d088a6.png)
+![image](https://user-images.githubusercontent.com/88691843/131614093-0104d1c8-3e2b-44e5-b043-f1746016a03a.png)
+
 
 ## Entrega de la tarea
 
